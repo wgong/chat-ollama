@@ -117,7 +117,7 @@ If you'd like to run with the latest code base and apply changes as needed, you 
 
     ```bash
     # npm
-    npm run dev
+    npm run dev [-- --port 3003] # use port 3003
 
     # pnpm
     pnpm dev
